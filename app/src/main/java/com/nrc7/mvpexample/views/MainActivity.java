@@ -1,4 +1,4 @@
-package com.nrc7.mvpexample;
+package com.nrc7.mvpexample.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.nrc7.mvpexample.R;
+import com.nrc7.mvpexample.presenter.IEvaluador;
 import com.nrc7.mvpexample.presenter.LoginEvaluator;
 
 public class MainActivity extends AppCompatActivity implements IEvaluador {

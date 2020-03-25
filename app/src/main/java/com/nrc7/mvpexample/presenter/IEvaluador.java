@@ -1,4 +1,4 @@
-package com.nrc7.mvpexample;
+package com.nrc7.mvpexample.presenter;
 
 public interface IEvaluador {
 

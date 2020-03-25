@@ -1,8 +1,10 @@
-package com.nrc7.mvpexample;
+package com.nrc7.mvpexample.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.nrc7.mvpexample.R;
 
 public class SecondActivity extends AppCompatActivity {
 

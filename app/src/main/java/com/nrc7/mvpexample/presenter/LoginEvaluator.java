@@ -1,7 +1,5 @@
 package com.nrc7.mvpexample.presenter;
 
-import com.nrc7.mvpexample.IEvaluador;
-
 public class LoginEvaluator {
 
     // Interface == null, se cae
